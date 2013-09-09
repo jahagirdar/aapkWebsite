@@ -1,0 +1,12 @@
+/* This file will hold styles for the mobile version of your website (mobile first). */
+/* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
+#first-time {display:none;}
+h2 {
+	font-size: 18px;
+	background-color:#61A220;
+	color:white;
+	border:1px solid;
+	border-radius: 0.3em;
+	text-align:center;
+	padding:1%;
+}

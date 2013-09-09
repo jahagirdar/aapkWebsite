@@ -1,0 +1,25 @@
+/* This file will hold styles for all layouts using the alpha grid (i.e. not the mobile layout). */
+#zone-branding {padding-bottom :3px}
+.views-field-title {padding-bottom:3px;}
+.site-name {color:#FF9933}
+.site-slogan {color:#FF9933}
+/*000080 blue 
+ * green 138808 */
+h2, h3, h4, h5, h6 {color:#}
+th {
+	background-color:#138808;
+	color:#000000;
+}
+aside#region-sidebar-second li{
+	list-style-type:none;
+	background-color:#ff9933;
+	padding-left:2px;
+	padding-top:4px;
+	padding-bottom:4px;
+	margin:5px;
+	/*text-align:center;*/
+	appearance:button;
+	-moz-appearance:button; /* Firefox */
+	-webkit-appearance:button; /* Safari and Chrome */
+	box-shadow: 5px 5px 2px #888888;
+}
